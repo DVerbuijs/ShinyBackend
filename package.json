@@ -1,0 +1,23 @@
+{
+  "name": "shinybackend",
+  "version": "1.0.0",
+  "description": "Backend for shiny tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DVerbuijs/ShinyBackend.git"
+  },
+  "author": "Dennis Verbuijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DVerbuijs/ShinyBackend/issues"
+  },
+  "homepage": "https://github.com/DVerbuijs/ShinyBackend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
